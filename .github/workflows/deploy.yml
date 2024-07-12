@@ -3,7 +3,7 @@ name: Deploy React App
 on:
   push:
     branches:
-      - botcrafter_l  # Убедитесь, что указана правильная ветка вашего репозитория
+      - main  # Убедитесь, что указана правильная ветка вашего репозитория
 
 jobs:
   build:
